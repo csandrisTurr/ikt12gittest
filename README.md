@@ -1,2 +1,2 @@
 # ikt12gittest
-fagz van
+fagy van
